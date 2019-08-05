@@ -1,28 +1,29 @@
 {
  "name":"ADEO",
+ "value":80000
  "children":[
    {  
          "name":"goal",
          "children":[
-          {"name":"Goal1","value":200}
+          {"name":"Goal1","value":343434}
          ]
    },
   {  
          "name":"goal",
          "children":[
-          {"name":"Goal1","value":200}
+          {"name":"Goal1","value":343434}
          ]
    },
   {  
          "name":"goal",
          "children":[
-          {"name":"Goal1","value":200}
+          {"name":"Goal1","value":34343}
          ]
    },
   {  
          "name":"goal",
          "children":[
-          {"name":"Goal1","value":200}
+          {"name":"Goal1","value":4343}
          ]
    }
   ]
